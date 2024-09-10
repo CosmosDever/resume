@@ -32,9 +32,7 @@
 		<p>
 			<a href={`https://${website}`} target="_blank" rel="noreferrer">{website}</a>
 		</p>
-		<p>
-			<a href={`https://linkedin.com/in/${linkedin}`} target="_blank" rel="noreferrer">Linkedin</a>
-		</p>
+		<p />
 	</div>
 </div>
 
