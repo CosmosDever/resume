@@ -27,16 +27,22 @@
 			"details": "A bot that can help you to make a profit in the crypto  market",
 			"url": "https://github.com/CosmosDever/CapstonePJ",
 			"hide": false
+		},
+		{
+			"name": "Evacuation Simulation And Analysis for Suzu,Japan Use Maximum Flow And Time-Expanded Network",
+			"details": "A program that can simulate evacuation scenarios using pathfinding algorithms",
+			"url": "https://github.com/CosmosDever/EvacuationPJ",
+			"hide": false
 		}
 	],
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "JavaScript, Node.js, TypeScript, SQL, python, Java, C, C++, HTML, CSS"
+			"details": "JavaScript, Node.js, TypeScript, Go, SQL, python, Java, C, C++, HTML, CSS"
 		},
 		{
 			"section": "Frameworks:",
-			"details": "ReactJS, NextJS, TailwindCSS, Elysia js, Bun"
+			"details": "ReactJS, NextJS, TailwindCSS, Elysia js, Bun, Spring Boot"
 		},
 		{
 			"section": "Tools:",
@@ -59,7 +65,7 @@
 		{
 			"position": "Back-end Developer",
 			"company": "Profit Oriented Dynamic Bot",
-			"url": "",
+			"url": "https://github.com/CosmosDever/CapstonePJ",
 			"years": ["2024", "Current"],
 			"details": ["Development Back-end and Connecting Front-end", "Write reports and user manuals"]
 		},
@@ -69,15 +75,29 @@
 			"url": "",
 			"years": ["2023"],
 			"details": ["Contributed to the creation of problems and teaching materials."]
+		},
+		{
+			"position": "Dev Team Full-stack in SCB Tech HUB",
+			"company": "SCB Tech HUB",
+			"url": "",
+			"years": ["2024", "Current"],
+			"details": ["Development Front-end Automate Test and Back-end"]
+		},
+		{
+			"position": "Research Intern in Algorithm lab Kansai University Japan",
+			"company": "Kansai University",
+			"url": "https://github.com/CosmosDever/EvacuationPJ",
+			"years": ["2025"],
+			"details": ["Development Front-end Automate Test and Back-end"]
 		}
 	],
 	"educations": [
 		{
 			"head": "B.Bachelor of Science Program in Applied Computer Science",
-			"details": "King Mongkut's University of Technology Thonburi, TH. 2022-present (GPA 3.08)"
+			"details": "King Mongkut's University of Technology Thonburi, TH. 2022-present"
 		}
 	],
-	"interests": ["Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards"],
+	"interests": ["Areas : Coding, AI, Technology, Sibersecurity, Crypto"],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/CosmosDever/resume"
 	}
