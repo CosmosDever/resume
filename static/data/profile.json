@@ -88,7 +88,9 @@
 			"company": "Kansai University",
 			"url": "https://github.com/CosmosDever/EvacuationPJ",
 			"years": ["2025"],
-			"details": ["Development Front-end Automate Test and Back-end"]
+			"details": [
+				"Development Simulation Evacuation Program using Maximum Flow and Time-Expanded Network"
+			]
 		}
 	],
 	"educations": [
