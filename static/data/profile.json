@@ -37,16 +37,32 @@
 	],
 	"technologies": [
 		{
-			"section": "Languages:",
-			"details": "JavaScript, Node.js, TypeScript, Go, SQL, Python, Java, C, C++, HTML, CSS"
+			"section": "Languages",
+			"details": "Go, TypeScript, JavaScript, Python, JavaC, C++"
 		},
 		{
-			"section": "Frameworks:",
-			"details": "ReactJS, NextJS, TailwindCSS, Elysia js, Bun, Spring Boot"
+			"section": "Backend & APIs",
+			"details": "Node.js, FastAPI, Spring Boot"
 		},
 		{
-			"section": "Tools:",
-			"details": "Git, Docker, GitHub, VSCode, Vim, Figma"
+			"section": "Frontend",
+			"details": "React, Next.js, TailwindCSS"
+		},
+		{
+			"section": "Mobile Development",
+			"details": "Flutter, Swift"
+		},
+		{
+			"section": "Databases",
+			"details": "MySQL, PostgreSQL, MongoDB"
+		},
+		{
+			"section": "DevOps & Tools",
+			"details": "Docker, Git, GitHub, Bash"
+		},
+		{
+			"section": "Additional",
+			"details": "HTML, CSS, Vim, VSCode, Figma"
 		}
 	],
 	"workExperiences": [
@@ -113,7 +129,6 @@
 			"details": "King Mongkut's University of Technology Thonburi, TH. 2022-present"
 		}
 	],
-	"interests": ["Areas : Coding, AI, Technology, Cybersecurity, Cryptocurrency"],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/CosmosDever/resume"
 	}

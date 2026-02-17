@@ -15,7 +15,6 @@
 		technologies = [],
 		workExperiences = [],
 		educations = [],
-		interests = [],
 		resumeUrl: { sourceLink = '', fullVersionLink = '' } = {}
 	} = profile || {});
 
@@ -57,7 +56,7 @@
 				{#each technologies as tech}
 					<Hideable>
 						<li>
-							<span class="w-28 inline-block">{tech.section}</span>
+							<span class="w-40 inline-block">{tech.section}</span>
 							<span>{tech.details}</span>
 						</li>
 					</Hideable>
@@ -114,28 +113,6 @@
 			</ul>
 		</Hideable>
 	</section>
-
-	<section>
-		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">Interests</h2>
-			<hr />
-
-			<ul class="text-left list-disc pl-8">
-				{#each interests as interest}
-					<Hideable>
-						<li>
-							{interest}
-						</li>
-					</Hideable>
-				{/each}
-			</ul>
-		</Hideable>
-	</section>
-
-	<footer class="print-only">
-		(See <a href={fullVersionLink} target="_blank" rel="noopener">full version</a>
-		or <a href={sourceLink} target="_blank" rel="noopener">source</a>)
-	</footer>
 </main>
 
 <style lang="postcss">
