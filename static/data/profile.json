@@ -12,19 +12,19 @@
 	"projects": [
 		{
 			"name": "Application Car crash",
-			"details": "A application that can overlay the car crash and show the result of the crash",
+			"details": "An application that overlays car crash data and visualizes the damage results.",
 			"url": "https://github.com/Narutchai01/kmutt-research",
 			"hide": false
 		},
 		{
 			"name": "Deary",
-			"details": "A diary website that can write a diary and can add emotion to the diary",
+			"details": "A diary website that allows users to write diaries and add emotions to their entries.",
 			"url": "https://github.com/CosmosDever/Deary",
 			"hide": false
 		},
 		{
 			"name": "Profit Oriented Dynamic Bot",
-			"details": "A bot that can help you to make a profit in the crypto  market",
+			"details": "An automated trading bot designed to optimize profitability in cryptocurrency markets.",
 			"url": "https://github.com/CosmosDever/CapstonePJ",
 			"hide": false
 		},
@@ -38,7 +38,7 @@
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "JavaScript, Node.js, TypeScript, Go, SQL, python, Java, C, C++, HTML, CSS"
+			"details": "JavaScript, Node.js, TypeScript, Go, SQL, Python, Java, C, C++, HTML, CSS"
 		},
 		{
 			"section": "Frameworks:",
@@ -56,9 +56,11 @@
 			"url": "https://github.com/Narutchai01/kmutt-research",
 			"years": ["2023", "Current"],
 			"details": [
-				"Development Front-end and Connecting Back-end",
-				"Do a Overlay for the car crash",
-				"Write reports and user manuals"
+				"Developed cross-platform front-end interfaces using React (TypeScript) and Flutter (Dart) for web and mobile applications",
+				"Integrated front-end components with back-end services to enable real-time data communication and system functionality",
+				"Designed and implemented vehicle damage overlay visualization by processing AI-generated data and applying mathematical models to accurately plot crash damage areas",
+				"Enhanced mobile application usability and user interaction through responsive UI development",
+				"Prepared technical documentation including user manuals and system reports to support deployment and maintenance"
 			]
 		},
 
@@ -67,14 +69,29 @@
 			"company": "Profit Oriented Dynamic Bot",
 			"url": "https://github.com/CosmosDever/CapstonePJ",
 			"years": ["2024", "Current"],
-			"details": ["Development Back-end and Connecting Front-end", "Write reports and user manuals"]
+			"details": [
+				"Developed AI back-end services using Python (FastAPI) to support automated cryptocurrency trading decision systems",
+				"Designed and implemented decision tree models using scikit-learn to analyze technical indicators including ATR, ADX, RSI, EMA, MACD, MA, and SMA for buy/sell signal generation",
+				"Built web back-end services using Node.js to manage application logic, user interaction, and communication with AI services",
+				"Integrated trading system with Binance API to enable automated trade execution and real-time market data processing",
+				"Designed and maintained RESTful APIs to support front-end applications developed with React, Vite, and JavaScript",
+				"Optimized system performance and data processing workflows to improve trading efficiency and responsiveness",
+				"Prepared technical documentation including system reports and user manuals to support deployment and usability"
+			]
 		},
 		{
-			"position": "Dev Team Full-stack in SCB Tech HUB",
+			"position": "Full-stack Developer (Part-time & Intern)",
 			"company": "SCB Tech HUB",
 			"url": "",
 			"years": ["2024", "Current"],
-			"details": ["Development Front-end Automate Test and Back-end"]
+			"details": [
+				"Developed and maintained enterprise-level applications across front-end and back-end systems within a professional banking technology environment",
+				"Implemented front-end features and automated testing workflows using React and TypeScript to improve system reliability and development efficiency",
+				"Developed back-end services using Node.js, Go, and Spring Boot (Java) to support scalable and high-performance business applications",
+				"Participated in legacy system modernization by refactoring and migrating selected Java-based services to Go to improve performance and maintainability",
+				"Created and maintained Bash scripts to automate development, deployment, and operational workflows",
+				"Collaborated with cross-functional teams following industry-standard development practices and version control workflows"
+			]
 		},
 		{
 			"position": "Research Intern in Algorithm lab Kansai University Japan",
@@ -82,7 +99,11 @@
 			"url": "https://github.com/CosmosDever/EvacuationPJ",
 			"years": ["2025"],
 			"details": [
-				"Development Simulation Evacuation Program using Maximum Flow and Time-Expanded Network"
+				"Developed evacuation simulation software using Python to model crowd movement and emergency evacuation scenarios",
+				"Applied graph theory algorithms including Maximum Flow and Time-Expanded Network to optimize evacuation routing and time-based flow analysis",
+				"Designed simulation models to analyze evacuation efficiency under varying environmental and congestion conditions",
+				"Implemented algorithmic solutions to improve path optimization and resource allocation in emergency response scenarios",
+				"Collaborated with research supervisors to validate simulation results and support academic research objectives"
 			]
 		}
 	],
@@ -92,7 +113,7 @@
 			"details": "King Mongkut's University of Technology Thonburi, TH. 2022-present"
 		}
 	],
-	"interests": ["Areas : Coding, AI, Technology, Sibersecurity, Crypto"],
+	"interests": ["Areas : Coding, AI, Technology, Cybersecurity, Cryptocurrency"],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/CosmosDever/resume"
 	}
